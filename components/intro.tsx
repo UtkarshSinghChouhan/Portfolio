@@ -66,9 +66,9 @@ const Intro = () => {
         className=" mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5]"
       >
         <span className="font-bold">Hello, I&apos;m Utkarsh.</span> I&apos;m a{" "}
-        <span className="font-bold">front-end developer</span> with{" "}
-        <span className="font-bold">1 year</span> of experience. I have passion
-        for creating visually appealing, user-friendly building{" "}
+        <span className="font-bold">front-end developer</span>
+        {/* with{" "}        <span className="font-bold">1 year</span> of experience.  */}
+        I have passion for creating visually appealing, user-friendly building{" "}
         <span className="italic">web application</span>. My focus is JavaScript,
         and modern frontend framework like{" "}
         <span className="underline">React (Next.js)</span>.
