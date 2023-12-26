@@ -65,7 +65,7 @@ const Intro = () => {
         animate={{ y: 0, opacity: 1, transition: { delay: 0.1 } }}
         className=" mb-10 mt-4 px-4 text-2xl font-medium !leading-[1.5]"
       >
-        <span className="font-bold">Hello, I&apos;m Utkarsh.</span> I&apos;m a{" "}
+        <span className="font-bold">Hello, I'm Utkarsh.</span> I'm a{" "}
         <span className="font-bold">front-end developer</span> with{" "}
         <span className="font-bold">1 year</span> of experience. I have passion
         for creating visually appealing, user-friendly building{" "}
