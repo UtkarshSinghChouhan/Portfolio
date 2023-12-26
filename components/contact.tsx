@@ -25,10 +25,10 @@ const Contact = () => {
         >
           email.utkarshsinghchouhan@gmail.com
         </a>{" "}
-        or through this form
+        {/* or through this form */}
       </p>
 
-      <form
+      {/* <form
         className="mt-10 flex flex-col"
         action={async (formData) => {
           console.log(formData);
@@ -54,7 +54,7 @@ const Contact = () => {
           Submit{" "}
           <FaPaperPlane className="group-hover:translate-x-1 group-hover:-translate-y-1 transition text-sm opacity-70" />
         </button>
-      </form>
+      </form> */}
     </motion.section>
   );
 };
