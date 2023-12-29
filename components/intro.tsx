@@ -68,7 +68,7 @@ const Intro = () => {
         <span className="font-bold">Hello, I&apos;m Utkarsh.</span> I&apos;m a{" "}
         <span className="font-bold">front-end developer</span>
         {/* with{" "}        <span className="font-bold">1 year</span> of experience.  */}
-        I have passion for creating visually appealing, user-friendly building{" "}
+        I have passion for creating visually appealing, user-friendly {" "}
         <span className="italic">web application</span>. My focus is JavaScript,
         and modern frontend framework like{" "}
         <span className="underline">React (Next.js)</span>.
