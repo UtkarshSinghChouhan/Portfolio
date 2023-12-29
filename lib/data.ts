@@ -70,7 +70,7 @@ export const experiencesData = [
     description:
       "Graduated with Masters in Computer Application with 8.86 c.g.p.a, with Specialization in Web-Development.",
     icon: React.createElement(LuGraduationCap),
-    date: "Feb 2023 - May 2023",
+    date: "Aug 2021 - May 2023",
   },
 ] as const;
 
