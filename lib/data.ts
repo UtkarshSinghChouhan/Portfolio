@@ -39,14 +39,14 @@ export const links = [
 ] as const;
 
 export const experiencesData = [
-  // {
-  //   title: "Forescribe.ai (Front-End Engineer)",
-  //   location: "Remote",
-  //   description:
-  //     "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-  //   icon: React.createElement(FaReact),
-  //   date: "Jan 2024 - Present",
-  // },
+  {
+    title: "Forescribe.ai (Front-End Engineer)",
+    location: "Remote",
+    description:
+      "Part of the team working on building the SAAS product for the company. Next.js(14), Typescript, Tailwind.",
+    icon: React.createElement(FaReact),
+    date: "Jan 2024 - Present",
+  },
   {
     title: "Forescribe.ai (Front-End Engineer Intern)",
     location: "Remote",
