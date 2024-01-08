@@ -77,7 +77,7 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "Forescribe Website",
-    link: `https://forescribe-website.vercel.app/`,
+    link: `https://www.forescribe.ai/`,
     githubLink: "",
     description:
       "I am working as a frontend engineer on this startup project. It is the main website of the company which is soley developed by myself.",
